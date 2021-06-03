@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Manny03-ui7
-- 👀 I’m interested in Programing, web development, hacking.
+- 👀 I’m interested in Programing, web development, cyber security.
 - 🌱 I’m currently learning Bachelor of Computer Applications.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
